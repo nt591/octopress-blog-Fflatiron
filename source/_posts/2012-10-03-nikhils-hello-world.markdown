@@ -9,4 +9,4 @@ categories:
 
 <!-- more -->
 
-"This should appear after the fold and the continue button.""
+"This should appear after the fold and the continue button."

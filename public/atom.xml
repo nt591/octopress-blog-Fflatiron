@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-03T14:36:15-04:00</updated>
+  <updated>2012-10-03T14:48:41-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Catchiest Wiz Khalifa Song I've Heard]]></title>
+    <link href="http://yoursite.com/blog/2012/10/03/the-catchiest-wiz-khalifa-song-ive-heard/"/>
+    <updated>2012-10-03T14:44:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/03/the-catchiest-wiz-khalifa-song-ive-heard</id>
+    <content type="html"><![CDATA[<p>Video after the jump.</p>
+
+<!-- more -->
+
+
+<p><video width='640' height='320' preload='none' controls poster=' http://s3.imathis.com/video/zero-to-fancy-buttons.png'><source src='http://www.youtube.com/watch?v=WBGbYagI6G4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'/></video></p>
+
+<p>Couldn&#8217;t find a good poster picture so there you go.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Nikhil's Hello World]]></title>
@@ -23,7 +39,7 @@
 <!-- more -->
 
 
-<p>&#8220;This should appear after the fold and the continue button.&#8221;&#8221;</p>
+<p>&#8220;This should appear after the fold and the continue button.&#8221;</p>
 ]]></content>
   </entry>
   
