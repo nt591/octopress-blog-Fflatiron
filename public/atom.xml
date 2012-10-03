@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-03T14:56:44-04:00</updated>
+  <updated>2012-10-03T15:04:21-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Great Supervillain Quote]]></title>
+    <link href="http://yoursite.com/blog/2012/10/03/a-great-supervillain-quote/"/>
+    <updated>2012-10-03T15:01:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/03/a-great-supervillain-quote</id>
+    <content type="html"><![CDATA[<blockquote><p>Do you feel in charge?</p><footer><strong>Bane</strong> <cite><a href='http://www.amazon.com/Knight-Rises-Blu-ray-UltraViolet-Digital/dp/B004LWZWGK/ref=sr_tr_sr_1?ie=UTF8&qid=1349290864&sr=8-1&keywords=the+dark+knight+rises'>The Dark Knight Rises</a></cite></footer></blockquote>
+
+
+<p>Sent chills down my spine.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing out HTML Code]]></title>
