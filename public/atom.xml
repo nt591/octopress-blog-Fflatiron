@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-03T14:51:51-04:00</updated>
+  <updated>2012-10-03T14:54:56-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Testing out HTML Code]]></title>
+    <link href="http://yoursite.com/blog/2012/10/03/testing-out-html-code/"/>
+    <updated>2012-10-03T14:53:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/03/testing-out-html-code</id>
+    <content type="html"><![CDATA[<p>I&#8217;m going to test out the <strong>bold</strong>, <em>italics</em> and <a href="www.google.com">Google link</a> too.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The Best Superhero Game I've Played]]></title>
