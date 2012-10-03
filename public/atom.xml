@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-03T15:43:52-04:00</updated>
+  <updated>2012-10-03T16:59:12-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Practice makes not-quite-perfect-but-not-as-horrible]]></title>
+    <link href="http://yoursite.com/blog/2012/10/03/practice-makes-not-quite-perfect-but-not-as-horrible/"/>
+    <updated>2012-10-03T16:53:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/03/practice-makes-not-quite-perfect-but-not-as-horrible</id>
+    <content type="html"><![CDATA[<p>It&#8217;s day two of class and I&#8217;m already starting to slowly understand (grok?) some of the very core technologies. I have to admit, Git was slightly intimidating when I started but I&#8217;m learning the workflow properly. I&#8217;ve picked up a few rookie tips.</p>
+
+<!-- more -->
+
+
+<p>I think if there are three things I would recommend to anyone who wants to start learning how to code, they would be :</p>
+
+<ol>
+    <li><strong>Work with people</strong> - Having people to bounce thoughts and ideas off is easily the best part of this class. Trying to learn on my own was hard, but not impossible. Being around smart and motivated people prevented me from falling behind or getting lazy.</li>
+    <li> <strong>Practice a LOT</strong> - This is rather obvious, but the only way to learn how to code is to code. Reading books, watching videos, that&#8217;s all helpful but not the most important thing you can do. It&#8217;s imperative to write crappy code, screw up and learn how to fix it.</li>
+    <li> <strong>Customize your environment</strong> - I HATE the standard Mac OS X terminal. All that black-against-white just hurts my eyes. Get it away. Once I tuned the colors and shortcuts to my liking, everything started to fly.</li> 
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Title Here]]></title>
