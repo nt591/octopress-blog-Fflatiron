@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Nikhil's Thoughts]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-03T16:59:12-04:00</updated>
+  <updated>2012-10-03T17:19:28-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nikhil Thomas]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[I'm editing my config]]></title>
+    <link href="http://yoursite.com/blog/2012/10/03/im-editing-my-config/"/>
+    <updated>2012-10-03T17:18:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/03/im-editing-my-config</id>
+    <content type="html"><![CDATA[<p>I&#8217;m going to be incredibly embarrassed of all this if I forget it and it leaks to the public.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Practice makes not-quite-perfect-but-not-as-horrible]]></title>

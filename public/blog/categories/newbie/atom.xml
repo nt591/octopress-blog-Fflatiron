@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Newbie | My Octopress Blog]]></title>
+  <title><![CDATA[Category: Newbie | Nikhil's Thoughts]]></title>
   <link href="http://yoursite.com/blog/categories/newbie/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-03T16:59:12-04:00</updated>
+  <updated>2012-10-03T17:19:28-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Nikhil Thomas]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
