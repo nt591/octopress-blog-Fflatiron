@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-03T15:04:21-04:00</updated>
+  <updated>2012-10-03T15:43:52-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title Here]]></title>
+    <link href="http://yoursite.com/blog/2012/10/03/title-here/"/>
+    <updated>2012-10-03T15:43:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/03/title-here</id>
+    <content type="html"><![CDATA[<p>Here is where you put your text.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Great Supervillain Quote]]></title>
