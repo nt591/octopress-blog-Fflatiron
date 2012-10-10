@@ -28,14 +28,18 @@
     </url>
     <url>
         <loc>http://yoursite.com/blog/2012/10/03/im-editing-my-config/</loc>
-        <lastmod>2012-10-03T17:19:21-04:00</lastmod>
+        <lastmod>2012-10-03T17:20:35-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://yoursite.com/blog/2012/10/10/sql-joins-are-hard/</loc>
+        <lastmod>2012-10-10T16:27:55-04:00</lastmod>
     </url>
     <url>
         <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2012-10-03T17:19:21-04:00</lastmod>
+        <lastmod>2012-10-10T16:27:55-04:00</lastmod>
     </url>
     <url>
         <loc>http://yoursite.com/</loc>
-        <lastmod>2012-10-03T17:19:21-04:00</lastmod>
+        <lastmod>2012-10-10T16:27:55-04:00</lastmod>
     </url>
 </urlset>

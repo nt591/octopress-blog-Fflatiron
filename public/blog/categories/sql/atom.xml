@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: SQL | Nikhil's Thoughts]]></title>
+  <link href="http://yoursite.com/blog/categories/sql/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2012-10-10T16:28:05-04:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Nikhil Thomas]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[SQL joins are HARD]]></title>
+    <link href="http://yoursite.com/blog/2012/10/10/sql-joins-are-hard/"/>
+    <updated>2012-10-10T16:18:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/10/sql-joins-are-hard</id>
+    <content type="html"><![CDATA[<p>Here at the Flatiron School, we're building out our own internal feedback tool, which is wonderfully named Feedbackadoro (if you disapprove, please yell at <a href="http://www.twitter.com/aviflombaum">Avi</a>). We started out by building the SQL tables and some practice queries, and I'm pretty sure I need a lot more work to understand JOINs...</p>
+
+<!-- more -->
+
+
+<p>Imagine for a moment that you have three tables - one for users of the tool, one for submitted issues, and one for submitted solutions.</p>
+
+<p>Got it?</p>
+
+<p>Great. Now, I had to establish a personal understanding of what the tool would be used for and get into the mindset of the consumer. I felt that, if I were using the tool, I would want to be able to search for questions that were marked as CLOSED and had submitted answers from an instructor of the class. I then wanted to SELECT the name of the user, the content of the issue and the content of the solution</p>
+
+<p>Having to INNER JOIN all three of the tables was tough, I wasn't sure if order mattered at first - would I need to join the user table before the solution? It turned out that the mistake I had the entire time wasn't a mistake at all! I wrote a query that outputted a blank entry in bash, but I thought it was breaking. Turns out my query was asking for all issues submitted by instructors. My tables didn't have that issue at all, why would instructors ask students for help?</p>
+
+<p>Turns out the hardest part of joins isn't implementing them, but understanding the question you're trying to solve.</p>
+
+<p>Have you had trouble with joins? What kept you up at night?</p>
+]]></content>
+  </entry>
+  
+</feed>
