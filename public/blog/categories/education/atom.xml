@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Education | Nikhil's Thoughts]]></title>
   <link href="http://yoursite.com/blog/categories/education/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-11T08:37:59-04:00</updated>
+  <updated>2012-10-11T08:57:46-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Nikhil Thomas]]></name>
@@ -29,7 +29,7 @@
 
 <p>2) <strong>Screencasts are awesome</strong> - Michael Hartl has what is probably the definitive <a href="http://www.ruby.railstutorial.org">Ruby on Rails tutorial</a> available. He makes his book available for free and the screencasts are only $125. Seriously, invest in these and refer to them whenever you get stuck. He's a great speaker who can take a complex topic and concisely break it down into baby steps. Plus you can take the PDF on the go like I do and skim topics to review whenever you need to. It's awesome.</p>
 
-<p>3) <strong>Looking at practice code</strong> - Videos, screencasts and books are great but at the end of the day, you're not a programmer if you don't program. For that, I've been scouring the internet for Rails programmers in fields I'm interested in and trying to find their Github accounts. It's been really helpful to see how people tackle problems, what clean code looks like, and what you're capable of doing. A good place to start looking would be open source projects like Octopress (which I use for this blog). PS - if you know of any growth hackers who show off code, <a href="mailto:nikhil@flatironschool.com?Subject=Growth%20Hacker%20Code">email me!</a></p>
+<p>3) <strong>Looking at code</strong> - Videos, screencasts and books are great but at the end of the day, you're not a programmer if you don't program. For that, I've been scouring the internet for Rails programmers in fields I'm interested in and trying to find their Github accounts. It's been really helpful to see how people tackle problems, what clean code looks like, and what you're capable of doing. A good place to start looking would be open source projects like Octopress (which I use for this blog). PS - if you know of any growth hackers who show off code, <a href="mailto:nikhil@flatironschool.com?Subject=Growth%20Hacker%20Code">email me!</a></p>
 
 <p>How did you learn to code? Can you think of any other resources for a beginner? Finding Ruby was like falling in love, and Carl Sagan once said that when you're in love, you want to share it with the world. Let's share tips and tricks!</p>
 ]]></content>
