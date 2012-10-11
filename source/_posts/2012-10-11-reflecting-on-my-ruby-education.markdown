@@ -6,7 +6,7 @@ comments: true
 categories: [Ruby, Programming, Education]
 ---
 
-I'm incredibly fortunate to be attending the <a href="http://www.flatironschool.com">Flatiron School</a>here in NYC from October through December taking lessons on Ruby, Rails, Javascsript and other web technologies. It's been really exciting to try and educate myself about what goes on under the hood on all my favorite web applications. However, not all learning styles work equally well for me. 
+I'm incredibly fortunate to be attending the <a href="http://www.flatironschool.com">Flatiron School</a> here in NYC from October through December taking lessons on Ruby, Rails, Javascsript and other web technologies. It's been really exciting to try and educate myself about what goes on under the hood on all my favorite web applications. However, not all learning styles work equally well for me. 
 
 <!-- more -->
 Typically in college, I've been able to just do practice questions to solidify my understanding. That hasn't worked as well when it came to programming languages, particularly in picking up Ruby as a beginner. Luckily there's a variety of resources available online and here are some of the tools I've used.
