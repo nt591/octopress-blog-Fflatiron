@@ -4,7 +4,7 @@
   <title><![CDATA[Nikhil's Thoughts]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-10T16:28:05-04:00</updated>
+  <updated>2012-10-11T07:58:04-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Nikhil Thomas]]></name>
@@ -12,6 +12,28 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reflecting on my Ruby education]]></title>
+    <link href="http://yoursite.com/blog/2012/10/11/reflecting-on-my-ruby-education/"/>
+    <updated>2012-10-11T07:39:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/11/reflecting-on-my-ruby-education</id>
+    <content type="html"><![CDATA[<p>I&#8217;m incredibly fortunate to be attending the <a href="http://www.flatironschool.com">Flatiron School</a>here in NYC from October through December taking lessons on Ruby, Rails, Javascsript and other web technologies. It&#8217;s been really exciting to try and educate myself about what goes on under the hood on all my favorite web applications. However, not all learning styles work equally well for me.</p>
+
+<!-- more -->
+
+
+<p>Typically in college, I&#8217;ve been able to just do practice questions to solidify my understanding. That hasn&#8217;t worked as well when it came to programming languages, particularly in picking up Ruby as a beginner. Luckily there&#8217;s a variety of resources available online and here are some of the tools I&#8217;ve used.</p>
+
+<p>1) <strong>Videos to start</strong> - The best way I&#8217;ve been able to start a new topic is by watching a video on the topic. Some of my favorite resources include <a href="http://www.codeschool.com">Code School</a> and <a href="http://www.treehouse.com">Treehouse</a>. The videos are short and brief, but provide sample questions at the end so you can really drill down and make sure you understand a topic. I will say that I found Code School&#8217;s format to be less like a formal lecture and a little more engaging.</p>
+
+<p>2) <strong>Screencasts are awesome</strong> - Michael Hartl has what is probably the definitive <a href="http://www.ruby.railstutorial.org">Ruby on Rails tutorial</a> available. He makes his book available for free and the screencasts are only $125. Seriously, invest in these and refer to them whenever you get stuck. He&#8217;s a great speaker who can take a complex topic and concisely break it down into baby steps. Plus you can take the PDF on the go like I do and skim topics to review whenever you need to. It&#8217;s awesome.</p>
+
+<p>3) <strong>Looking at practice code</strong> - Videos, screencasts and books are great but at the end of the day, you&#8217;re not a programmer if you don&#8217;t program. For that, I&#8217;ve been scouring the internet for Rails programmers in fields I&#8217;m interested in and trying to find their Github accounts. It&#8217;s been really helpful to see how people tackle problems, what clean code looks like, and what you&#8217;re capable of doing. A good place to start looking would be open source projects like Octopress (which I use for this blog). PS - if you know of any growth hackers who show off code, <a href="mailto:nikhil@flatironschool.com?Subject=Growth%20Hacker%20Code">email me!</a></p>
+
+<p>How did you learn to code? Can you think of any other resources for a beginner? Finding Ruby was like falling in love, and Carl Sagan once said that when you&#8217;re in love, you want to share it with the world. Let&#8217;s share tips and tricks!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SQL joins are HARD]]></title>
