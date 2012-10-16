@@ -4,7 +4,7 @@
   <title><![CDATA[Nikhil's Thoughts]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-16T08:54:58-04:00</updated>
+  <updated>2012-10-16T08:58:52-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Nikhil Thomas]]></name>
@@ -69,27 +69,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Practice makes not-quite-perfect-but-not-as-horrible]]></title>
-    <link href="http://yoursite.com/blog/2012/10/03/practice-makes-not-quite-perfect-but-not-as-horrible/"/>
-    <updated>2012-10-03T16:53:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/03/practice-makes-not-quite-perfect-but-not-as-horrible</id>
-    <content type="html"><![CDATA[<p>It&#8217;s day two of class and I&#8217;m already starting to slowly understand (grok?) some of the very core technologies. I have to admit, Git was slightly intimidating when I started but I&#8217;m learning the workflow properly. I&#8217;ve picked up a few rookie tips.</p>
-
-<!-- more -->
-
-
-<p>I think if there are three things I would recommend to anyone who wants to start learning how to code, they would be :</p>
-
-<ol>
-    <li><strong>Work with people</strong> - Having people to bounce thoughts and ideas off is easily the best part of this class. Trying to learn on my own was hard, but not impossible. Being around smart and motivated people prevented me from falling behind or getting lazy.</li>
-    <li> <strong>Practice a LOT</strong> - This is rather obvious, but the only way to learn how to code is to code. Reading books, watching videos, that&#8217;s all helpful but not the most important thing you can do. It&#8217;s imperative to write crappy code, screw up and learn how to fix it.</li>
-    <li> <strong>Customize your environment</strong> - I HATE the standard Mac OS X terminal. All that black-against-white just hurts my eyes. Get it away. Once I tuned the colors and shortcuts to my liking, everything started to fly.</li> 
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Title Here]]></title>
     <link href="http://yoursite.com/blog/2012/10/03/title-here/"/>
     <updated>2012-10-03T15:43:00-04:00</updated>
@@ -99,53 +78,11 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[A Great Supervillain Quote]]></title>
-    <link href="http://yoursite.com/blog/2012/10/03/a-great-supervillain-quote/"/>
-    <updated>2012-10-03T15:01:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/03/a-great-supervillain-quote</id>
-    <content type="html"><![CDATA[<blockquote><p>Do you feel in charge?</p><footer><strong>Bane</strong> <cite><a href='http://www.amazon.com/Knight-Rises-Blu-ray-UltraViolet-Digital/dp/B004LWZWGK/ref=sr_tr_sr_1?ie=UTF8&qid=1349290864&sr=8-1&keywords=the+dark+knight+rises'>The Dark Knight Rises</a></cite></footer></blockquote>
-
-
-<p>Sent chills down my spine.</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Testing out HTML Code]]></title>
     <link href="http://yoursite.com/blog/2012/10/03/testing-out-html-code/"/>
     <updated>2012-10-03T14:53:00-04:00</updated>
     <id>http://yoursite.com/blog/2012/10/03/testing-out-html-code</id>
     <content type="html"><![CDATA[<p>I&#8217;m going to test out the <strong>bold</strong>, <em>italics</em> and <a href="http://www.google.com">Google link</a> too.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[The Best Superhero Game I've Played]]></title>
-    <link href="http://yoursite.com/blog/2012/10/03/the-catchiest-wiz-khalifa-song-ive-heard/"/>
-    <updated>2012-10-03T14:44:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/03/the-catchiest-wiz-khalifa-song-ive-heard</id>
-    <content type="html"><![CDATA[<p>Video after the jump.</p>
-
-<!-- more -->
-
-
-<p><video width='640' height='320' preload='none' controls poster=' http://s3.imathis.com/video/zero-to-fancy-buttons.png'><source src='http://www.youtube.com/watch?v=Rrfo8XaVTDI' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'/></video></p>
-
-<p>Couldn&#8217;t find a good poster picture so there you go.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Nikhil's Hello World]]></title>
-    <link href="http://yoursite.com/blog/2012/10/03/nikhils-hello-world/"/>
-    <updated>2012-10-03T14:27:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/03/nikhils-hello-world</id>
-    <content type="html"><![CDATA[<p>&#8220;Let&#8217;s add some test content to this page. Hopefully this will show up on the blog.&#8221;</p>
-
-<!-- more -->
-
-
-<p>&#8220;This should appear after the fold and the continue button.&#8221;</p>
 ]]></content>
   </entry>
   
