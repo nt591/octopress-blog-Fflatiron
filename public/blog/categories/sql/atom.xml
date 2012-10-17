@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: SQL | Nikhil's Thoughts]]></title>
-  <link href="http://yoursite.com/blog/categories/sql/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-10-17T12:16:03-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://nikhils-thoughts.herokuapp.com//blog/categories/sql/atom.xml" rel="self"/>
+  <link href="http://nikhils-thoughts.herokuapp.com//"/>
+  <updated>2012-10-17T12:18:42-04:00</updated>
+  <id>http://nikhils-thoughts.herokuapp.com//</id>
   <author>
     <name><![CDATA[Nikhil Thomas]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[SQL joins are HARD]]></title>
-    <link href="http://yoursite.com/blog/2012/10/10/sql-joins-are-hard/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/10/10/sql-joins-are-hard/"/>
     <updated>2012-10-10T16:18:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/10/sql-joins-are-hard</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/10/10/sql-joins-are-hard</id>
     <content type="html"><![CDATA[<p>Here at the Flatiron School, we're building out our own internal feedback tool, which is wonderfully named Feedbackadoro (if you disapprove, please yell at <a href="http://www.twitter.com/aviflombaum">Avi</a>). We started out by building the SQL tables and some practice queries, and I'm pretty sure I need a lot more work to understand JOINs...</p>
 
 <!-- more -->

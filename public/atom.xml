@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Nikhil's Thoughts]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2012-10-17T12:16:03-04:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://nikhils-thoughts.herokuapp.com//atom.xml" rel="self"/>
+  <link href="http://nikhils-thoughts.herokuapp.com//"/>
+  <updated>2012-10-17T12:18:42-04:00</updated>
+  <id>http://nikhils-thoughts.herokuapp.com//</id>
   <author>
     <name><![CDATA[Nikhil Thomas]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Tips for beginners to contribute to open source]]></title>
-    <link href="http://yoursite.com/blog/2012/10/17/tips-for-beginners-to-contribute-to-open-source/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/10/17/tips-for-beginners-to-contribute-to-open-source/"/>
     <updated>2012-10-17T11:44:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/17/tips-for-beginners-to-contribute-to-open-source</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/10/17/tips-for-beginners-to-contribute-to-open-source</id>
     <content type="html"><![CDATA[<p>One of the things we have to do at the <a href="http://www.flatironschool.com">Flatiron School</a> is contribute to open source projects. As a beginner, it&#8217;s pretty scary to think about writing code that experts will review and countless people may use. Where do you even start?</p>
 
 <!-- more -->
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[Reflecting on my Ruby education]]></title>
-    <link href="http://yoursite.com/blog/2012/10/11/reflecting-on-my-ruby-education/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/10/11/reflecting-on-my-ruby-education/"/>
     <updated>2012-10-11T07:39:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/11/reflecting-on-my-ruby-education</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/10/11/reflecting-on-my-ruby-education</id>
     <content type="html"><![CDATA[<p>I&#8217;m incredibly fortunate to be attending the <a href="http://www.flatironschool.com">Flatiron School</a> here in NYC from October through December taking lessons on Ruby, Rails, Javascsript and other web technologies. It&#8217;s been really exciting to try and educate myself about what goes on under the hood on all my favorite web applications. However, not all learning styles work equally well for me.</p>
 
 <!-- more -->
@@ -73,9 +73,9 @@
   
   <entry>
     <title type="html"><![CDATA[SQL joins are HARD]]></title>
-    <link href="http://yoursite.com/blog/2012/10/10/sql-joins-are-hard/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/10/10/sql-joins-are-hard/"/>
     <updated>2012-10-10T16:18:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/10/sql-joins-are-hard</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/10/10/sql-joins-are-hard</id>
     <content type="html"><![CDATA[<p>Here at the Flatiron School, we&#8217;re building out our own internal feedback tool, which is wonderfully named Feedbackadoro (if you disapprove, please yell at <a href="http://www.twitter.com/aviflombaum">Avi</a>). We started out by building the SQL tables and some practice queries, and I&#8217;m pretty sure I need a lot more work to understand JOINs&#8230;</p>
 
 <!-- more -->
@@ -97,36 +97,36 @@
   
   <entry>
     <title type="html"><![CDATA[I'm editing my config]]></title>
-    <link href="http://yoursite.com/blog/2012/10/03/im-editing-my-config/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/10/03/im-editing-my-config/"/>
     <updated>2012-10-03T17:18:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/03/im-editing-my-config</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/10/03/im-editing-my-config</id>
     <content type="html"><![CDATA[<p>I&#8217;m going to be incredibly embarrassed of all this if I forget it and it leaks to the public.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Title Here]]></title>
-    <link href="http://yoursite.com/blog/2012/10/03/title-here/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/10/03/title-here/"/>
     <updated>2012-10-03T15:43:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/03/title-here</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/10/03/title-here</id>
     <content type="html"><![CDATA[<p>Here is where you put your text.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Testing out HTML Code]]></title>
-    <link href="http://yoursite.com/blog/2012/10/03/testing-out-html-code/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/10/03/testing-out-html-code/"/>
     <updated>2012-10-03T14:53:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/10/03/testing-out-html-code</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/10/03/testing-out-html-code</id>
     <content type="html"><![CDATA[<p>I&#8217;m going to test out the <strong>bold</strong>, <em>italics</em> and <a href="http://www.google.com">Google link</a> too.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[The problem with Pingdom]]></title>
-    <link href="http://yoursite.com/blog/2012/07/22/the-problem-with-pingdom/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/07/22/the-problem-with-pingdom/"/>
     <updated>2012-07-22T19:13:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/07/22/the-problem-with-pingdom</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/07/22/the-problem-with-pingdom</id>
     <content type="html"><![CDATA[
 
 <figure class='code'><figcaption><span>Time to be Awesome - awesome.rb </span></figcaption>
@@ -156,9 +156,9 @@ bullshit?</p></blockquote>
   
   <entry>
     <title type="html"><![CDATA[Intro]]></title>
-    <link href="http://yoursite.com/blog/2012/07/22/intro/"/>
+    <link href="http://nikhils-thoughts.herokuapp.com//blog/2012/07/22/intro/"/>
     <updated>2012-07-22T08:23:00-04:00</updated>
-    <id>http://yoursite.com/blog/2012/07/22/intro</id>
+    <id>http://nikhils-thoughts.herokuapp.com//blog/2012/07/22/intro</id>
     <content type="html"><![CDATA[<p>Testing!</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin, massa eu vestibulum laoreet, nibh ante vulputate lorem, ac lobortis ante tellus eu mi. Duis sem nisi, luctus at feugiat eget, fringilla ut tellus. Nam a molestie justo. Sed pulvinar est vitae tellus semper tincidunt. Fusce euismod luctus lacus nec placerat. Mauris rutrum scelerisque nulla ut tempor. Nunc porttitor posuere mi, aliquet vehicula lorem feugiat in. Ut ut fermentum risus. Aliquam tincidunt ultricies ante sit amet bibendum. Cras nec sapien odio. Duis posuere congue sem, at congue massa faucibus at.</p>
