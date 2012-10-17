@@ -4,7 +4,7 @@
   <title><![CDATA[Nikhil's Thoughts]]></title>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2012-10-16T08:58:52-04:00</updated>
+  <updated>2012-10-17T12:16:03-04:00</updated>
   <id>http://yoursite.com/</id>
   <author>
     <name><![CDATA[Nikhil Thomas]]></name>
@@ -12,6 +12,42 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Tips for beginners to contribute to open source]]></title>
+    <link href="http://yoursite.com/blog/2012/10/17/tips-for-beginners-to-contribute-to-open-source/"/>
+    <updated>2012-10-17T11:44:00-04:00</updated>
+    <id>http://yoursite.com/blog/2012/10/17/tips-for-beginners-to-contribute-to-open-source</id>
+    <content type="html"><![CDATA[<p>One of the things we have to do at the <a href="http://www.flatironschool.com">Flatiron School</a> is contribute to open source projects. As a beginner, it&#8217;s pretty scary to think about writing code that experts will review and countless people may use. Where do you even start?</p>
+
+<!-- more -->
+
+
+<p>I needed some inspiration and found a great resource on Speakerdeck. Michael Koziarski, a Rails core contributor gave a talk called <a href="https://speakerdeck.com/u/nzkoz/p/lessons-from-the-other-side-effectively-contributing-to-open-source">Lessons from the Other Side: Effectively Contributing to Open Source</a>. It&#8217;s essentially advice from a maintainer of a huge project on how any individual can contribute to open source code. I&#8217;ll summarize some of my takeaways from these slides.</p>
+
+<h2>Don&#8217;t go looking for problems to solve!</h2>
+
+<p>It almost seems counterintuitive, but you&#8217;re much better off not hunting down tiny issues. Michael suggests tackling issues as they come up in your every day work.</p>
+
+<p><img src="http://imgs.xkcd.com/comics/think_logically.png" alt="Hunting down issues in stable releases is madness." /></p>
+
+<p>You don&#8217;t need to reinvent the wheel. The best way to start is simply to start taking notes on any issues that arise as you&#8217;re coding in your daily life. Let the problems come to you.</p>
+
+<h2>Submit your suggestions in small, digestible chunks</h2>
+
+<p>The smaller your individual contributions, the more specific the issue you&#8217;re solving. Think about it from the view of the project maintainer - chances are she has a day job. Nobody wants to spend precious free time reviewing a massive pull request! Make it small, make it clear.</p>
+
+<p><img src="http://imgs.xkcd.com/comics/home_organization.png" alt="Or you end up with this." /></p>
+
+<h2>Documentation needs love too</h2>
+
+<p>My friend Kevin Curtin started learning Ruby in a formal environment on October 2nd, 2012. Just after a week and a half, he was able to submit an open source contribution to the SQLite3 gem. It wasn&#8217;t magic, and he talks about it at <a href="http://kcurtin.github.com/blog/2012/10/11/contributing-to-open-source-a-beginners-guide-part-1-of-2/">his blog</a>. Chances are that most coders want to solve the sexy problem - writing code that&#8217;ll connect all the world via a massive search engine that only accepts 140 characters. Or something.</p>
+
+<p>However, when a newbie is trying to learn code, they need simple and descriptive documentation. If you had a problem with any documentation, submit an explanation and example! Don&#8217;t worry if you&#8217;re afraid it&#8217;s not glorious enough, there are plenty of good coders. Good coders who can teach are a rarity - learn how to explain concepts in documentation and you&#8217;ll both strengthen your learning as well as make a name for yourself.</p>
+
+<p>Did I miss anything? I&#8217;d love to hear from any open source project maintainers who have more suggestions for people! In the mean time, follow me on Twitter at <a href="http://www.twitter.com/nikhilthomas90">@nikhilthomas90</a> and let me know what else is on your mind!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reflecting on my Ruby education]]></title>

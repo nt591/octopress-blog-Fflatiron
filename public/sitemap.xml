@@ -29,15 +29,21 @@
         <lastmod>2012-10-11T09:20:44-04:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://yoursite.com/blog/2012/10/17/tips-for-beginners-to-contribute-to-open-source/
+        </loc>
+        <lastmod>2012-10-17T12:15:49-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://yoursite.com/about/</loc>
         <lastmod>2012-10-11T09:20:44-04:00</lastmod>
     </url>
     <url>
         <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2012-10-11T09:20:44-04:00</lastmod>
+        <lastmod>2012-10-17T12:15:49-04:00</lastmod>
     </url>
     <url>
         <loc>http://yoursite.com/</loc>
-        <lastmod>2012-10-11T09:20:44-04:00</lastmod>
+        <lastmod>2012-10-17T12:15:49-04:00</lastmod>
     </url>
 </urlset>
