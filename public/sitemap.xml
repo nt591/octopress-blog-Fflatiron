@@ -39,15 +39,21 @@
         <lastmod>2012-10-17T12:15:49-04:00</lastmod>
     </url>
     <url>
+        <loc>
+            http://nikhils-thoughts.herokuapp.com//blog/2012/10/21/how-to-avoid-multitasking-for-greater-productivity/
+        </loc>
+        <lastmod>2012-10-21T17:31:36-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://nikhils-thoughts.herokuapp.com//about/</loc>
         <lastmod>2012-10-11T09:20:44-04:00</lastmod>
     </url>
     <url>
         <loc>http://nikhils-thoughts.herokuapp.com//blog/archives/</loc>
-        <lastmod>2012-10-17T12:15:49-04:00</lastmod>
+        <lastmod>2012-10-21T17:31:36-04:00</lastmod>
     </url>
     <url>
         <loc>http://nikhils-thoughts.herokuapp.com//</loc>
-        <lastmod>2012-10-17T12:15:49-04:00</lastmod>
+        <lastmod>2012-10-21T17:31:36-04:00</lastmod>
     </url>
 </urlset>
